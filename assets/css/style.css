@@ -1,0 +1,483 @@
+/* FONTS */
+@import url(../css/clash-display.css);
+
+/* VARIABLES */
+:root {
+    --c-dark: #212529;
+    --c-brand: #4e57d4;
+    --c-brand-light: #6970dd;
+    --c-brand-rgb: 78, 87, 212;
+    --c-body: #727272;
+    --font-base: "ClashDisplay", sans-serif;
+    --box-shadow: 0px 15px 25px rgba(0,0,0,0.08);
+    --transition: all 0.5s ease;
+}
+
+/* RESET & HELPERS */
+body {
+    font-family: var(--font-base);
+    line-height: 1.7;
+    color: var(--c-body);
+}
+
+h1, h2, h3,h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    font-weight: 600;
+    color: var(--c-dark);
+}
+
+a {
+    text-decoration: none;
+    color: var(--c-brand);
+    transition: var(--transition);
+}
+
+a:hover {
+    color: var(--c-brand-light);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.section-padding {
+    padding-top: 80px;
+    padding-bottom:50px;
+}
+
+.theme-shadow {
+    box-shadow: var(--box-shadow);
+   box-shadow: 0px 15px 25px rgba(0,0,0,0.08);
+}
+
+/* IMAGE ZOOM */
+.image-zoom {
+    position: relative;
+    /* overflow: hidden; */
+}
+
+.image-zoom-wrapper {
+    overflow: hidden;
+    position: relative;
+}
+
+.image-zoom-wrapper img{
+     transition: var(--transition);
+}
+
+.image-zoom:hover .image-zoom-wrapper img {
+    transform: scale(1.1);
+}
+
+
+/* NAVBAR */
+.navbar {
+    box-shadow: var(--box-shadow);
+}
+
+.navbar-nav .nav-link {
+    /* font-size: 1rem; */
+    font-weight: 500;
+    color: var(--c-dark);
+}
+
+@media screen and (min-width: 700px) {
+    .navbar-nav .nav-link {
+        font-size: 0.9rem;
+    }
+}
+
+.navbar-nav .nav-link.active {
+    color: var(--c-brand);
+}
+
+
+/* BTN */
+.btn {
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 0;
+    padding: 10px 24px;
+}
+
+.btn-brand {
+    background-color: var(--c-brand);
+    border-color: var(--c-brand);
+    color: white;
+}
+
+.btn-brand:hover {
+    background-color: var(--c-brand-light);
+    border-color: var(--c-brand-light);
+    color: white;
+}
+
+
+/* HERO */
+#hero {
+  margin-top: -3.5rem;
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/hero.jpg);
+    background-position: center;
+    background-size: cover;
+  
+}
+
+
+
+
+/* SECTION TITLE */
+.section-title {
+    margin-bottom: 60px;
+}
+
+.section-title .line {
+    width: 60px;
+    height: 4px;
+    background-color: var(--c-brand);
+    margin: 16px auto 24px auto;
+}
+
+.section-title p {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* ICONBOX */
+.iconbox {
+    width: 70px;
+    height: 70px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(var(--c-brand-rgb), 0.1);
+    color: var(--c-brand);
+    font-size: 34px;
+    flex: none;
+}
+
+/* Total siswa */
+.total-students {
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.8), rgba(var(--c-brand-rgb), 0.8)), url(../images/counter.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+/* struktur kelas */
+/* struktur kelas */
+.card {
+    max-width: 300px; 
+    max-height: 200px; 
+    margin: 0 auto;
+  }
+  
+  .card img {
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-bottom: -8px;
+  }
+  
+  .card-body {
+    font-size: 14px; /* ukuran teks default */
+  }
+  
+  /* Responsif untuk perangkat seluler */
+  @media (max-width: 768px) {
+    .card {
+      max-width: 150px;
+      max-height: 100px;
+      gap: 1;
+    }
+    
+    .card img {
+      height: 40px;
+      width: 40px;
+      border-radius: 8px;
+      margin-top: 8px;
+      margin-bottom: -8px;
+    }
+  
+    .card-body, .card-title {
+      font-size: 12px; /* ukuran teks untuk perangkat seluler */
+      margin-bottom: 1px;
+    }
+
+    .card-text {
+        font-size: 10px; /* ukuran teks untuk perangkat seluler */
+        margin-bottom: -1px;
+      }
+  }
+
+
+
+/* class-members */
+.class-members small {
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--c-brand);
+}
+
+.class-members-person img {
+    height: 75px;
+    width: 75px;
+}
+
+.class-members-head {
+    position: relative;
+}
+
+.class-members-head::after {
+    content: "";
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    bottom: -14px;
+    background-color: white;
+    transform: rotate(45deg);
+}
+
+@media (min-width: 768px) {
+    .class-members {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .class-members-person img {
+        height: 75px;
+        width: 75px;
+    }
+    
+    .class-members-head {
+        height: 100%;
+        position: relative;
+    }
+}
+
+.pagination {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pagination li {
+    margin: 5px;
+}
+
+@media (max-width: 768px) {
+    /* Tambahkan aturan CSS responsif untuk pagination */
+    .pagination li {
+        margin: 5px 0;
+    }
+}
+
+/* jadwal dan piket */
+.schedule { 
+  position: relative; overflow: hidden; z-index: 2; 
+
+    height: 100%;
+}
+
+.schedule-text {
+    text-align: left;
+}
+  
+
+.schedule::after { 
+  content: ""; width: 40px; height: 40px; background: rgba(var(--c-brand-rgb), 0.2); position: absolute; bottom: 0; right: 0; transition: var(--transition); 
+  
+}
+.schedule:hover::after {
+  width: 100%; height: 100%; background: var(--c-brand); z-index: -1; 
+  
+}
+.schedule:hover h5, .schedule:hover p { color: white; 
+  
+}.schedule:hover .iconbox {
+  background-color: rgba(255,255,255,0.2); color: white; 
+  
+}
+
+.schedule p {
+    display: none;
+}
+
+/* Add this style to show the member list when schedule is hovered */
+.schedule:hover p {
+    display: block;
+}
+
+/* Galeri*/
+.gallery-item .iconbox {
+    background-color: var(--c-brand);
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+}
+
+
+
+.gallery-item:hover .iconbox {
+    opacity: 1;
+    top: 50%;
+}
+
+/* Pagination Style */
+.pagination, .pagination-gallery {
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.pagination li, .pagination-gallery li {
+    
+    margin: 5px;
+    display: inline-block;
+    margin: 0;
+}
+
+.pagination li a, .pagination-gallery li a {
+    padding: 10px 15px;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    color: #333;
+}
+
+
+/* Responsif untuk Pagination */
+@media (max-width: 767px) {
+    .pagination li a, .pagination-gallery li a {
+        padding: 8px 12px;
+        margin: 5px 0;
+    }
+
+}
+
+.pagination li.active a, .pagination-gallery li.active a {
+    background-color: #007bff;
+    color: #fff;
+    border: 1px solid #007bff;
+}
+
+.pagination li.disabled a, .pagination-gallery li.disabled a {
+    pointer-events: none;
+    background-color: #eee;
+    color: #aaa;
+    border: 1px solid #ddd;
+}
+
+
+
+/* PRESTASI */
+.achievement-content {
+    background-color: var(--c-brand);
+    position: absolute;
+    bottom: -24px;
+    left: 50%;
+    width: calc(100% - 50px);
+    transform: translateX(-50%);
+    padding: 24px;
+    transition: var(--transition);
+    opacity: 0;
+}
+
+.achievement {
+    
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        flex-direction: column;
+       
+    
+}
+
+.achievement:hover .achievement-content {
+    opacity: 1;
+    bottom: 24px;
+}
+
+@media (min-width: 700px) {
+    .img-prestasi {
+        height: 200px;
+    }
+}
+
+
+
+.read-more{
+    margin-bottom: 2rem;
+}
+
+ul {
+list-style: none;
+}
+
+/* FOOTER */
+footer {
+    padding-top: 120px;
+}
+
+.footer-top {
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.footer-bottom {
+    padding-top: 40px;
+    padding-bottom: 2px;
+}
+
+
+footer li,
+footer p,
+footer a {
+    color: rgba(255,255,255,0.7);
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer .line {
+    width: 40px;
+    height: 4px;
+    background-color: var(--c-brand);
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+
+.social-icons a {
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255,255,255,0.1);
+    border-radius: 100px;
+}
+
+.social-icons a:hover {
+    background-color: var(--c-brand);
+    color: white;
+}
+

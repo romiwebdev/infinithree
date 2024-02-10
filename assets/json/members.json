@@ -1,0 +1,251 @@
+[
+    {
+        "name": "Ais Sahwa Aliya",
+        "role": "Illustrator",
+        "image": "./assets/images/members/ais.jpg",
+        "description": "Ais adalah ahli gambar yang kreatif dan detail. Karyanya sering menjadi sorotan dalam pameran seni sekolah, dan dia memiliki bakat dalam menggambarkan berbagai konsep."
+    },
+    {
+        "name": "Al-Fatih Maulana",
+        "role": "Illustrator",
+        "image": "./assets/images/members/fatih.jpg",
+        "description": "Fatih adalah seniman gambar yang memiliki keahlian dalam menggambar karakter dan ilustrasi. Kreativitasnya terlihat dalam setiap karya yang dibuatnya, dan dia sering berkontribusi pada proyek seni sekolah."
+    }
+    ,
+    {
+        "name": "Alifya Syaharani",
+        "role": "Dancer",
+        "image": "./assets/images/members/alifya.jpg",
+        "description": "Alifya adalah penari berbakat yang mahir dalam tarian kontemporer. Gerakannya lembut namun kuat, dan penampilannya selalu memukau penonton. Dian sering berpartisipasi dalam pertunjukan tari di sekolah dan acara komunitas."
+    }
+    ,
+    {
+        "name": "Alvina Nur Elysia",
+        "role": "Gamer",
+        "image": "./assets/images/members/vina.jpg",
+        "description": "Vina adalah seorang gamer casual yang gemar bermain berbagai jenis game. Meskipun tidak terlibat dalam kompetisi resmi, dia memiliki pengetahuan mendalam tentang berbagai permainan dan sering berbagi tips dengan teman-temannya."
+    }
+    ,
+    {
+        "name": "Amelia Dwi Pratiwi",
+        "role": "Red Cross Volunteer",
+        "image": "./assets/images/members/amel.jpg",
+        "description": "Amel adalah anggota PMR yang aktif dalam kegiatan sosial dan kemanusiaan. Dia sering terlibat dalam kegiatan donor darah, penyuluhan kesehatan, dan pertolongan pertama di sekolahnya."
+    }
+    ,
+    {
+        "name": "Andhika Putra Triwardani",
+        "role": "Gamer",
+        "image": "./assets/images/members/dika.jpg",
+        "description": "Dika adalah seorang gamer profesional dengan keahlian dalam berbagai genre permainan. Prestasinya dalam turnamen e-sports membuatnya dikenal sebagai salah satu yang terbaik di sekolahnya."
+    }
+    ,
+    {
+        "name": "Andika Farel Putra Prasetya",
+        "role": "Gamer",
+        "image": "./assets/images/members/farel.jpg",
+        "description": "farel adalah gamer yang mahir dalam strategi dan permainan cerdas. Keahliannya dalam bermain game kompetitif telah membawanya meraih beberapa gelar juara di tingkat sekolah."
+    }
+    ,
+    {
+        "name": "Aulia Putri Concetta Wardhani",
+        "role": "singer",
+        "image": "./assets/images/members/aulia.jpg",
+        "description": "Aulia adalah penyanyi berbakat dengan suara yang merdu. Kepopulerannya di sekolah tidak hanya karena kemampuan vokalnya yang luar biasa tetapi juga karena interpretasi emosional yang dia tuangkan dalam setiap penampilannya."
+    }
+    ,
+    {
+        "name": "Dafha Midiyantara Putra Santoso",
+        "role": "Football Player",
+        "image": "./assets/images/members/dafha.jpg",
+        "description": "dafha adalah pemain tengah yang handal dalam mengatur serangan dan bertahan. Kepemimpinannya di lapangan membuatnya menjadi tulang punggung tim, selalu memberikan kontribusi positif dalam setiap pertandingan."
+    }
+    ,
+    {
+        "name": "Danda Satrio Utomo",
+        "role": "Organization Leader",
+        "image": "./assets/images/members/danda.jpg",
+        "description": "Danda adalah ketua organisasi yang berdedikasi untuk memajukan organisasinya. Kepemimpinannya yang visioner telah membawa organisasi tersebut mencapai prestasi dan memberikan dampak positif pada siswa di sekolah."
+    }
+    ,
+    {
+        "name": "Danis Fauzi Asoka",
+        "role": "Guitarist",
+        "image": "./assets/images/members/danis.jpg",
+        "description": "Danis adalah gitaris berbakat yang mahir memainkan berbagai genre musik. Dia sering tampil dalam konser sekolah dan acara musik lokal, membawa nuansa yang menyenangkan melalui permainan gitarnya."
+    }
+    ,
+    {
+        "name": "Dela Ayu Puspitasari",
+        "role": "Illustrator",
+        "image": "./assets/images/members/dela.jpg",
+        "description": "Dela adalah ahli gambar yang memiliki keterampilan artistik yang tinggi. Karyanya sering dipamerkan dalam pameran seni sekolah, dan dia juga aktif dalam menggambar ilustrasi untuk proyek-proyek sekolah."
+    }
+    ,
+    {
+        "name": "Dewi Candra Sekar Arum",
+        "role": "Illustrator",
+        "image": "./assets/images/members/arum.jpg",
+        "description": "Arum adalah seniman gambar yang memiliki kecenderungan pada seni abstrak. Karyanya yang unik dan ekspresif sering menjadi perbincangan di antara teman-temannya."
+    }
+    ,{
+        "name": "Dicky saputra",
+        "role": "Gamer",
+        "image": "./assets/images/members/dicky.jpg",
+        "description": "Dicky adalah seorang gamer yang terampil dalam permainan aksi dan petualangan. Kreativitasnya dalam merancang strategi permainan membuatnya menjadi pemain yang diteladani oleh banyak teman sekelasnya."
+    }
+    ,
+    {
+        "name": "Dinda Ayu Pebrianti",
+        "role": "Paskibraka Member",
+        "image": "./assets/images/members/dinda.jpg",
+        "description": "Dinda adalah anggota Paskibraka yang tangguh. Dia memiliki kedisiplinan tinggi dan sering ditunjuk sebagai pembawa bendera pada upacara-upacara resmi di sekolah."
+    }
+    ,
+    {
+        "name": "Erissa Rizky Aulia",
+        "role": "Martial Artist",
+        "image": "./assets/images/members/risa.jpg",
+        "description": "Risa adalah pesilat wanita yang lincah dan disiplin. Keterampilannya dalam menggabungkan teknik serangan dan pertahanan membuatnya menjadi lawan yang tangguh di tatami."
+    }
+    ,
+    {
+        "name": "Gilang Adia Priatama",
+        "role": "Swimmer",
+        "image": "./assets/images/members/gilang.jpg",
+        "description": "Gilang adalah atlet renang yang handal. Dia memiliki kecepatan dan teknik renang yang baik, sering mengikuti kompetisi renang sekolah dan meraih prestasi di tingkat regional."
+    }
+    ,
+    {
+        "name": "Januarista Wefi Fiananda",
+        "role": "Futsal Player",
+        "image": "./assets/images/members/wepi.jpg",
+        "description": "Wefi, seorang pemain futsal wanita yang cepat dan tangguh. Keterampilannya dalam bertahan dan serangan membuatnya menjadi andalan tim, dan dia sering memotivasi rekan-rekannya di lapangan."
+    }
+    ,
+    {
+        "name": "Julia",
+        "role": "Scout Leader",
+        "image": "./assets/images/members/julia.jpg",
+        "description": "Julia adalah pemimpin Pramuka yang berdedikasi. Dia memiliki pengetahuan mendalam tentang kegiatan outdoor, survival, dan kepemimpinan. Julia aktif mengorganisir perkemahan dan kegiatan Pramuka di sekolahnya."
+    }
+    ,
+    {
+        "name": "julita Nura'ini",
+        "role": "Entrepreneur",
+        "image": "./assets/images/members/julita.jpg",
+        "description": "Julita adalah seorang siswa yang memiliki jiwa wirausaha. Dia aktif dalam mengembangkan ide-ide bisnis, mengikuti pelatihan kewirausahaan, dan berhasil menjalankan bisnis kecilnya sendiri."
+    }
+    ,
+    {
+        "name": "Junaedi Kusumo Sakti",
+        "role": "Organization Leader",
+        "image": "./assets/images/members/juned.jpg",
+        "description": "Juned adalah pemimpin organisasi yang memiliki kemampuan kepemimpinan yang luar biasa. Keputusannya yang tepat dan kemampuannya mengorganisir acara membuatnya menjadi ketua yang dihormati di sekolah."
+    }
+    ,
+    {
+        "name": "M Rafi Bintan Alamsyah",
+        "role": " Volleyball Player",
+        "image": "./assets/images/members/rafi.jpg",
+        "description": "Rafi adalah pemain voli yang lincah dan penuh semangat. Kecepatan gerakannya di lapangan membuatnya sulit dihadang oleh lawan. Sari sering kali menjadi penyumbang poin utama dalam pertandingan voli."
+    }
+    ,
+    {
+        "name": "M.Fitrahadi Ardiansyah",
+        "role": "Martial Artist",
+        "image": "./assets/images/members/ardi.jpg",
+        "description": "Ardi adalah pesilat yang memiliki keahlian tinggi dalam teknik pukulan dan tendangan. Keandalannya dalam berlatih dan berkompetisi membuatnya menjadi salah satu pesilat terbaik di sekolahnya."
+    }
+    ,
+    {
+        "name": "Mada Nur Fikriansyah",
+        "role": "Racer",
+        "image": "./assets/images/members/mada.jpg",
+        "description": "Mada adalah pembalap berbakat yang mahir mengendalikan kendaraan di lintasan. Dia sering mengikuti balapan lokal dan memiliki kecepatan serta ketangkasan yang mengesankan."
+    }
+    ,
+    {
+        "name": "Meysya Nur Azizah Arlaika",
+        "role": "Musician",
+        "image": "./assets/images/members/asya.jpg",
+        "description": "Meysya adalah vokalis berbakat dengan suara yang memukau. Penampilannya yang energetik dan emosional membuatnya menjadi pusat perhatian dalam acara musik di sekolah."
+    }
+    ,
+    {
+        "name": "Michella Sinta Putri Devia",
+        "role": "Paskibraka Member",
+        "image": "./assets/images/members/michel.jpg",
+        "description": "Michel adalah anggota Paskibraka yang berkomitmen tinggi pada tugasnya. Keterampilannya dalam melakukan upacara bendera dan kemampuannya beradaptasi dengan berbagai situasi menjadikannya anggota yang handal dan tangguh."
+    }
+    ,
+    {
+        "name": "Mochammad Rasya Al Khafidz",
+        "role": "Volleyball Player",
+        "image": "./assets/images/members/rasya.jpg",
+        "description": "Rasya adalah atlet voli yang handal dalam memblok dan melakukan smash. Kecepatan tangannya dan keterampilannya dalam membaca permainan membuatnya menjadi pemain kunci dalam tim voli sekolah."
+    }
+    ,
+    {
+        "name": "Mohammad Fardan Saputra",
+        "role": "Football Player",
+        "image": "./assets/images/members/fardan.jpg",
+        "description": "Fardan adalah pemain berbakat dengan kecepatan dan akurasi tendangan yang mengesankan. Keberaniannya di lapangan membuatnya menjadi pemain yang ditakuti oleh lawan-lawannya."
+    }
+    ,
+    {
+        "name": "Muhromin",
+        "role": "Musician",
+        "image": "./assets/images/members/romin.jpg",
+        "description": "Romi adalah seniman musik yang mahir memainkan beberapa alat musik. Dengan kreativitasnya, dia sering berkolaborasi dengan teman-teman musisi di sekolah."
+    }
+    ,
+    {
+        "name": "Novanayla Lidya Lambert Trinito",
+        "role": "Religious Scholar",
+        "image": "./assets/images/members/nayla.jpg",
+        "description": "Nayla adalah ahli agama yang mendalam pengetahuannya. Dia aktif dalam kegiatan keagamaan di sekolah, memberikan ceramah dan mengkaji aspek-aspek agama dengan penuh keikhlasan."
+    }
+    ,
+    {
+        "name": "Rara Aulia Nursafa",
+        "role": "Theater Player",
+        "image": "./assets/images/members/rara.jpg",
+        "description": "Rara adalah seorang pemain teater yang berbakat. Dia memiliki kemampuan akting yang luar biasa dan mampu memerankan berbagai peran dengan penuh emosi. Rara sering terlibat dalam produksi teater dan selalu memberikan kontribusi yang besar."
+    }
+    ,
+    {
+        "name": "Reva Happy Andreansyah",
+        "role": "Musician",
+        "image": "./assets/images/members/repa.jpg",
+        "description": "Reva adalah seniman musik yang mahir memainkan instrumen. Bakat musiknya membawanya tampil dalam konser sekolah dan menginspirasi teman-temannya untuk mengembangkan minat dalam musik."
+    }
+    ,
+    {
+        "name": "Satria Arya Aditya",
+        "role": "Football Player",
+        "image": "./assets/images/members/satria.jpg",
+        "description": "Satria adalah pemain sepak bola yang unggul dalam teknik menggiring bola dan tembakan akurat. Dia sering mencetak gol penting dalam pertandingan."
+    }
+    ,
+    {
+        "name": "Talitha Laily Ramadhani",
+        "role": "Dancer",
+        "image": "./assets/images/members/talitha.jpg",
+        "description": "Talitha adalah penari yang memiliki gaya tarian yang unik dan kreatif. Dengan kemampuan ekspresifnya, dia mampu menyampaikan cerita melalui gerakan-gerakan yang indah. Dini sering tampil dalam berbagai pertunjukan seni di sekolah."
+    }
+    ,
+    {
+        "name": " Wiradinata Mas Sembada Yuswanto",
+        "role": "Football Player",
+        "image": "./assets/images/members/thomas.jpg",
+        "description": "Thomas adalah penjaga gawang yang sangat handal. Keterampilannya dalam menangkis tembakan membuatnya menjadi penyelamat tim. Thomas sering kali menjadi faktor penentu dalam pertandingan."
+    }
+    ,
+    {
+        "name": "Shinta Athaya G",
+        "role": "Illustrator",
+        "image": "./assets/images/members/shinta.jpg",
+        "description": "Shinta adalah seniman gambar yang kreatif dan inovatif. Karyanya sering mencerminkan imajinasinya yang luas, dan dia suka bereksperimen dengan berbagai gaya gambar."
+    }
+]
