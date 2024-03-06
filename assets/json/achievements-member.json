@@ -1,0 +1,24 @@
+[
+    {
+      "image": "./assets/images/prestasi-member/bestPlayer.jpeg",
+      "thumb": "./assets/images/members/satria.jpg",
+      "title": "Satria Arya A",
+      "status": "Best Player SFL 2023",
+      "description": "Satria Arya A meraih gelar Best Player SFL 2023, menandai keunggulannya dalam dunia olahraga."
+    },
+    {
+      "image": "./assets/images/prestasi-member/bestKeeper.jpeg",
+      "thumb": "./assets/images/members/thomas.jpg",
+      "title": "Wiradinata M S Y",
+      "status": "Best Keeper SFL 2023",
+      "description": "Wiradinata M S Y dinobatkan sebagai Best Keeper 2023, mencerminkan kemampuannya dalam menjaga gawang."
+    },
+    {
+      "image": "./assets/images/prestasi-member/paskab.JPG",
+      "thumb": "./assets/images/members/michel.jpg",
+      "title": "Michella Sinta P D",
+      "status": "PASKAB Bojonegoro",
+      "description": "Michella Sinta P D adalah bagian dari PASKAB Bojonegoro, menunjukkan dedikasinya dalam pengabdiannya. "
+    }
+  ]
+  

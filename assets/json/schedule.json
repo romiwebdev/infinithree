@@ -1,0 +1,22 @@
+[
+    {
+        "day": "Senin",
+        "lessons": ["MTK Lanjutan", "PJOK", "PKN", "Sejarah"]
+    },
+    {
+        "day": "Selasa",
+        "lessons": ["Seni Budaya", "Bahasa Inggris", "Kimia", "MTK Lanjutan", "PKWU"]
+    },
+    {
+        "day": "Rabu",
+        "lessons": ["MTK Wajib", "Bahasa Indonesia", "BK", "Biologi"]
+    },
+    {
+        "day": "Kamis",
+        "lessons": ["Informatika", "Bahasa Jawa", "Kimia", "PAI"]
+    },
+    {
+        "day": "Jumat",
+        "lessons": ["Biologi", "Informatika", "Projek"]
+    }
+]

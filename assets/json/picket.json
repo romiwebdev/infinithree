@@ -1,0 +1,22 @@
+[
+    {
+        "day": "Senin",
+        "members": ["Dicky", "Danda", "Dewi", "Rissa", "Dela", "Reva", "Gilang", "Danis", "Ais"]
+    },
+    {
+        "day": "Selasa",
+        "members": ["Raffi", "Talitha", "Aulia", "Alvina", "Ardi", "Andhika", "Romi", "Daffa", "Rasya"]
+    },
+    {
+        "day": "Rabu",
+        "members": ["Farel", "Satria", "Fardan", "Mada", "Rara", "Meysa", "Julia", "Wefi", "Michell"]
+    },
+    {
+        "day": "Kamis",
+        "members": ["Julita", "Nayla", "Junaidi", "Thomas", "Shinta", "Fatih", "Amel", "Dinda", "Alifya"]
+    },
+    {
+        "day": "Jum'at",
+        "members": ["Seluruh siswa"]
+    }
+]

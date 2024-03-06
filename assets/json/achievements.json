@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Juara 1 SFL",
+    "image": "./assets/images/prestasi/sfl.JPG",
+    "description": "Tim futsal yang mewakili XI-3 berhasil meraih gelar juara pertama dalam kompetisi SFL (Smaga Futsal League). Prestasi ini menunjukkan dedikasi, keterampilan, dan kerjasama yang luar biasa dari para pemain dalam menghadapi persaingan sengit di dunia futsal.",
+    "link": ""
+  },
+  {
+    "title": "Juara 2 Bazar Dies Natalis",
+    "image": "./assets/images/prestasi/bazar.jpg",
+    "description": "Dalam ajang Bazar Salero Nusantara, tim atau individu dari XI-3 meraih prestasi luar biasa dengan mendapatkan posisi juara kedua. Keberhasilan ini mungkin mencerminkan keunggulan dalam berbagai keterampilan.",
+    "link": ""
+  },
+  {
+    "title": "Penyaji Terbaik Dies Natalis",
+    "image": "./assets/images/prestasi/karawitan.JPG",
+    "description": "XI-3 menorehkan keberhasilan dalam perayaan Dies Natalis dengan meraih penghargaan sebagai penyaji terbaik. Ini menunjukkan kemampuan dalam penyelenggaraan acara yang luar biasa dalam memeriahkan momen spesial tersebut.",
+    "link": ""
+  }
+]
