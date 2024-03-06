@@ -530,6 +530,11 @@ img {
     bottom: 24px;
 }
 
+        #prestasi-siswa {
+            display: none; 
+        }
+
+
 .cards {
     gap: 2rem;
     padding: 0;
