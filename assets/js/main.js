@@ -339,7 +339,7 @@ document.addEventListener("DOMContentLoaded", function () {
         achievementElement.className = "col-md-4";
         achievementElement.innerHTML = `
                   <div class="achievement image-zoom">
-                      <div class="image-zoom-wrapper">
+                      <div class="image-zoom-wrapper prestasi-container">
                           <img class="img-prestasi" src="${achievement.image}" alt="${achievement.title}">
                       </div>
                       <h5 class="mt-4">${achievement.title}</h5>

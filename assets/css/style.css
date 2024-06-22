@@ -544,7 +544,7 @@ img {
 #prestasiContainer {
     overflow-x: hidden;
 }
-  
+
 .card-prestasi {
   position: relative;
   display: block;
@@ -632,6 +632,18 @@ img {
   /* -webkit-box-orient: vertical;
   -webkit-line-clamp: 3; */
   overflow: hidden;
+}
+
+.prestasi-container {
+    width: 100%; /* atau ukuran spesifik sesuai kebutuhan */
+    height: auto; /* ini bisa disesuaikan tergantung pada desain */
+    position: relative;
+}
+
+.img-prestasi {
+    width: 100%;
+    height: auto;
+    display: block; /* untuk menghapus space di bawah gambar */
 }
 
 @media (min-width: 700px) {
