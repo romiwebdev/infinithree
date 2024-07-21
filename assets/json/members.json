@@ -84,10 +84,11 @@
     ,
     {
         "name": "Dewi Candra Sekar Arum",
-        "role": "Illustrator",
+        "role": "Taekwondo Athlete",
         "image": "./assets/images/members/arum.jpg",
-        "description": "Arum adalah seniman gambar yang memiliki kecenderungan pada seni abstrak. Karyanya yang unik dan ekspresif sering menjadi perbincangan di antara teman-temannya."
+        "description": "Arum adalah seorang atlet taekwondo yang berdedikasi dan berbakat. Dia telah memenangkan beberapa medali di kompetisi tingkat daerah."
     }
+    
     ,{
         "name": "Dicky saputra",
         "role": "Gamer",
@@ -131,7 +132,7 @@
     }
     ,
     {
-        "name": "julita Nura'ini",
+        "name": "Julita Nura'ini",
         "role": "Entrepreneur",
         "image": "./assets/images/members/julita-2.JPG",
         "description": "Julita adalah seorang siswa yang memiliki jiwa wirausaha. Dia aktif dalam mengembangkan ide-ide bisnis, mengikuti pelatihan kewirausahaan, dan berhasil menjalankan bisnis kecilnya sendiri."
@@ -146,9 +147,9 @@
     ,
     {
         "name": "M Rafi Bintan Alamsyah",
-        "role": " Volleyball Player",
+        "role": "Badminton Player",
         "image": "./assets/images/members/rafi.jpg",
-        "description": "Rafi adalah pemain voli yang lincah dan penuh semangat. Kecepatan gerakannya di lapangan membuatnya sulit dihadang oleh lawan. Sari sering kali menjadi penyumbang poin utama dalam pertandingan voli."
+        "description": "Rafi adalah pemain bulu tangkis berbakat dengan sejumlah prestasi di turnamen lokal. Dia dikenal karena ketangguhannya di lapangan dan dedikasinya dalam berlatih setiap hari."
     }
     ,
     {
@@ -195,9 +196,9 @@
     ,
     {
         "name": "Muhromin",
-        "role": "Musician",
+        "role": "Programmer Junior",
         "image": "./assets/images/members/romin.jpg",
-        "description": "Romi adalah seniman musik yang mahir memainkan beberapa alat musik. Dengan kreativitasnya, dia sering berkolaborasi dengan teman-teman musisi di sekolah."
+        "description": "Romi adalah seorang programmer junior yang memiliki passion besar dalam dunia pemrograman. Dia mahir dalam berbagai bahasa pemrograman dan sering terlibat dalam proyek pengembangan aplikasi di sekolahnya."
     }
     ,
     {
