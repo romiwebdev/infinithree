@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://infinithreesmaga.vercel.app/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://infinithreesmaga.vercel.app/tentang-kelas</loc>
+  </url>
+  <url>
+    <loc>https://infinithreesmaga.vercel.app/struktur-kelas</loc>
+  </url>
+  <url>
+    <loc>https://infinithreesmaga.vercel.app/anggota-kelas</loc>
+  </url>
+  <url>
+    <loc>https://infinithreesmaga.vercel.app/galleri</loc>
+  </url>
+  <url>
+    <loc>https://infinithreesmaga.vercel.app/prestasi</loc>
+  </url>
+</urlset>
